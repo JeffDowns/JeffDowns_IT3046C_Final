@@ -71,5 +71,6 @@ img {
   margin: auto;
   width: 10%;
   border-radius: 220px;
+  padding-top: 20px;
 }
 </style>
